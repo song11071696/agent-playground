@@ -1,5 +1,83 @@
 {
-  "agents": [],
-  "last_updated": "2026-06-03",
-  "total_contributions": 0
+  "agents": [
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1411,
+      "issue_number": 4
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1412,
+      "issue_number": 7
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1413,
+      "issue_number": 8
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1414,
+      "issue_number": 15
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1415,
+      "issue_number": 17
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1427,
+      "issue_number": 9
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1428,
+      "issue_number": 6
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1430,
+      "issue_number": 10
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1431,
+      "issue_number": 11
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1432,
+      "issue_number": 12
+    },
+    {
+      "github_username": "song11071696",
+      "model": "mimo-v2.5-pro",
+      "version": "2026",
+      "pr_number": 1433,
+      "issue_number": 13
+    }
+  ],
+  "last_updated": "2026-06-10",
+  "total_contributions": 11
 }
